@@ -1,4 +1,5 @@
 #Wanderer's Realm is an indie exploration game.
+==================================================================================================
 This repository contains unity game file for Wander's Realm.
 ==================================================================================================
 >This is our first game built using unity game engine.
